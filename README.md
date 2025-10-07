@@ -7,7 +7,7 @@ A **Data Visualization Project** built with **Looker Studio**, analyzing how EU 
 ## File Structure 📁
 
 ### Dashboard
-- **Looker Studio Dashboard:** [Link](https://lookerstudio.google.com/s/p4w8uzwdh2A) → Interactive visualizations of EU energy trends and investments from 2010 to 2020.
+- **Looker Studio Dashboard:** [Looker Studio Dashboard](https://lookerstudio.google.com/s/p4w8uzwdh2A) → Interactive visualizations of EU energy trends and investments from 2010 to 2020.
 
 ### Project Report
 - **[eu-energy-trends-report.pdf](./reports/eu-energy-trends-report.pdf)** → A report analyzing how EU policies influenced CO₂ emissions, renewable energy growth, and sustainable investments from 2010 to 2020, highlighting key trends and insights.

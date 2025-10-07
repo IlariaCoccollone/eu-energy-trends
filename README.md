@@ -7,10 +7,10 @@ A **Data Visualization Project** built with **Looker Studio**, analyzing how EU 
 ## File Structure 📁
 
 ### Dashboard
-- **Looker Studio Dashboard:** [View Dashboard](https://lookerstudio.google.com/s/p4w8uzwdh2A)  
+- **Looker Studio Dashboard:** [View Dashboard](https://lookerstudio.google.com/s/p4w8uzwdh2A) → Interactive visualizations of EU energy trends and investments from 2010 to 2020.
 
 ### Project Report
-- **Full Report (PDF):** [EU Energy Trends Report](eu-energy-trends-report.pdf)  
+- **[eu-energy-trends-report.pdf](./reports/eu-energy-trends-report.pdf)** → A report analyzing how EU policies influenced CO₂ emissions, renewable energy growth, and sustainable investments from 2010 to 2020, highlighting key trends and insights.
 
 ### Datasets
 1. **Sustainable Energy Investment Forecast Dataset**  
@@ -33,7 +33,7 @@ A **Data Visualization Project** built with **Looker Studio**, analyzing how EU 
 2. **Download Datasets:** Use the links below to obtain the original datasets for further analysis:  
    - [Sustainable Energy Investment Forecast Dataset (Kaggle)](https://www.kaggle.com/datasets/zelihayb/sustainable-energy-investment-forecast-dataset/data)  
    - [Invested in Renewables – The Only Way Forward (EIB)](https://www.eib.org/en/essays/europe-energy-transition-renewable)  
-3. **Read the Report:** Open [EU Energy Trends Report](reports/eu-energy-trends-report.pdf) for methodology, preprocessing details, and insights from the analysis.  
+3. **Read the Report:** Open [EU Energy Trends Report](eu-energy-trends-report.pdf) for methodology, preprocessing details, and insights from the analysis.  
 
 ## Authors 👩🏻‍💻
 
